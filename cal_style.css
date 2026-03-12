@@ -50,8 +50,8 @@ button{
     cursor: pointer;
 }
 .eqn_btn{
-    background-color: rgb(0, 128, 23);
+    background-color: orange;
 }
 .opt_btn{
-    color:orange;
+    color:rgb(0, 255, 60);
 }
